@@ -1,0 +1,1 @@
+a super simple lil clicker game from when i was learning svelte
